@@ -13,9 +13,12 @@ Domine os fundamentos da programação com clareza. Aprenda a trabalhar com vari
 
 ## Sobre o Professor
 
- Trabalha há mais de 8 anos com desenvolvimento de softwares enterprise e soluções corporativas além de ser educador técnico. <br><br>
-Linkedin: <a src="https://www.linkedin.com/in/felipeaguiar-exe/"> Felipe Aguiar </a>
+<div align="center"> <img src="./src/felipeAguiar.png" width="190">
 
+ Trabalha há mais de 8 anos com desenvolvimento de softwares enterprise e soluções corporativas além de ser educador técnico. <br><br>
+
+Linkedin: <a src="https://www.linkedin.com/in/felipeaguiar-exe/"> Felipe Aguiar </a>
+</div>
 
 
 ## Tecnologias Utilizadas
